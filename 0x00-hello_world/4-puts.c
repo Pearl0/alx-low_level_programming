@@ -1,9 +1,11 @@
 #!/bin/bash
 #include <stdio.h>
+
 /**
- * main-Printing
+ * main- Entry point
  * 
- * Return :Always 0 (Successful)
+ * Return: 0 after printing the function 
+ *
  */
 int main(void)
 {
