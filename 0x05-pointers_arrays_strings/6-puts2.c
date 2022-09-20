@@ -4,7 +4,7 @@
 /**
  * puts2 - prints every other character
  * @str: string parameter
- * 
+ *
  * Return: nothing
  */
 
@@ -18,5 +18,5 @@ void puts2(char *str)
 			putchar(*(str + i));
 		i++;
 	}
-	putchar (10);
+	putchar(10);
 }
